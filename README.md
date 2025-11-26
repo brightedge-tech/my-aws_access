@@ -1,2 +1,2 @@
-# my-aws_access
-A script to set up aws cli access using iam role
+# aws_access
+use this script setup aws cli access with iam role
